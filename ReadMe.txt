@@ -1,0 +1,1 @@
+Wedding Website developed using only HTML and CSS for styling. Website is responsive and was hosted for a time using Hostgator.
