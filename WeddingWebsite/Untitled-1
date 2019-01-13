@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+<link rel="stylesheet" href="Assignment.css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accomodation</title>
+</head>
+<body style="background-image:url('images/Engagement_shoot/image7.jpg')">
+<ul class="navigation_bar">
+    <li><a href="Index.html">HOME</a></li>
+  <li><a href="OurStory.html">OUR STORY</a></li>
+    <li><a href="TravelInfo.html">TRAVEL &amp; SCHEDULE</a></li>
+    <li><a href="Accomodation.html">ACCOMODATION</a></li>
+    <li><a href="https://goo.gl/forms/C4JUVZMSHZm2RFjq1">RSVP</a></li>
+</ul>  
+    
+<h1>SINEAD &amp; JASON</h1>
+<h2>20th April 2018</h2>
+
+    
+<div class="container">
+
+<h4>Darver Castle</h4>
+    <div class="schedule">
+        <ul>
+            <li>There is a limited number or rooms available at Darver Castle. All rooms are ensuite and breakfast is included in the price. For bookings call <a id="accomLink" href="tel:+353 42 9379466">+353 42 9379466 </a>or follow the link to - <a id="accomLink" href="http://darvercastle.ie/accommodation">Darver Castle Website</a></li>
+            <li>Oakwood cottages - 12 rooms</li>
+            <li>Courtyard accomodation - 11 rooms</li>
+        </ul>
+    </div>
+    
+<hr id=linebreak2>
+    
+<h4>The Crowne Plaza Dundalk</h4>
+
+     <div class="schedule">
+        <ul>
+            <li>This accomodation is 9.3km from Darver Castle. They run a shuttle service for hotel geusts to and from the venue. 15mins approx. Make sure to quote 'JSG' when booking to avail of the discounted price. Please note that booking must be done directly with the hotel. If guests book online they will be unable to avail of special rate and return transport. For bookings call <a id="accomLink" href="tel:+353 42 939 4922"> +353 42 939 4922</a></li>
+        </ul>
+    </div>
+    
+ <hr id=linebreak2>       
+    
+<h4>Drumneenagh Cottages</h4>
+     <div class="schedule">
+        <ul>
+            <li>    Situated 7km from Darver Castle. 10min approx. For bookings call <a id="accomLink" href="tel:+353 42 9382564">+353 42 9382564 </a> or follow the link to <a id="accomLink" href="http://www.cottage.ie/">Drummeenagh Cottages Website</a> </li>
+        </ul>
+    </div>
+    
+<hr id=linebreak2>
+    
+<h4>Rosemount Bed and Breakfast</h4>
+    <div class="schedule">
+        <ul>
+            <li>Situated 9km from Darver Castle. 10min approx. For bookings call <a id="accomLink" href="tel:+353 42 933 5878">+353 42 933 5878 </a>or find <a id="accomLink" href="https://www.booking.com/hotel/ie/rosemount-b.html">Rosemount Bed and Breakfast</a> on Booking.com</li>
+        </ul>
+    </div>
+    
+<hr id=linebreak2>
+      
+<h4>Fairlawns Bed and Breakfast</h4>
+     <div class="schedule">
+        <ul>
+           <li>Situated 9.8km from Darver Castle. 10min approx. For bookings call <a id="accomLink" href="tel:+353 42 932 3813">+353 42 932 3813</a> or find <a id="accomLink" href="https://www.booking.com/searchresults.en-gb.html?aid=318615;label=English_Ireland_EN_IE_29562090385-ny7lD73XSGHXM4MPhDK4HgS217274173673%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi2655181315%3Atiaud-146342138230%3Adsa-320886506819%3Alp1007850%3Ali%3Adec%3Adm;sid=3dcf3cb668a2eceabd37c9c621c9aaa8;city=-1502588;expand_sb=1;highlighted_hotels=321993;hlrd=no_dates;keep_landing=1;redirected=1;source=hotel&gclid=CjwKCAjw3_HOBRBaEiwAvLBbokRbWn-jgVKyNWfanf8edVu76GFtG7m8O8cAxanSCXL4i6qxsHUr_hoCmyIQAvD_BwE&">Fairlawns Bed and Breakfast</a> on Booking.com </li>
+        </ul>
+    </div>
+    
+ 
+</div>
+    
+<div class="container2">
+<footer>
+Contact us on Facebook  Sinead:<a href="https://www.facebook.com/sinead.galligan.5"><img src="images/facebook-logo.png" alt="Image cannot be displayed"></a> Jason:<a href="https://www.facebook.com/jason.oneill.9026"><img src="images/facebook-logo.png" alt="Image cannot be displayed"></a>
+</footer>
+</div>
+</body>
+</html>

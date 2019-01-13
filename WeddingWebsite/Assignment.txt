@@ -1,0 +1,92 @@
+✓	Links to both your own pages and external webpages:The navigation bar on each page contains links to my own pages. 
+    
+    External links can be found in the footer of each page.(Links to facebook profiles)
+    *There is a link in the footer of the Photos.html page to a website which holds copyright for the photos in Gallery. 
+    Links to external websites can also be found in the table on Accomodation.html. The elements in the first coloum are all links as well as the map icon in the third column.
+    
+    
+    
+    
+✓	A navigation bar: Included on all html files submitted, lines 11 - 18. 
+    Defined by class=“navigation_bar”. Styled in CSS file under headings; navigation_bar, navigation_bar li, navigation_bar a, navigation_bar a:hover.(Lines 13 - 42)
+    
+    
+
+
+✓	At least one table: See Accommodation.html lines 25-42. 
+    Defined by class=“accommodation”. Styled in CSS file under headings; accomodation, td, accomodation a, accomodation td a:hover.(Lines 116 - 142)
+    
+    
+    
+
+✓	At least one form: See RSVP.html lines 27-52.
+    Defined by class=“rsvpform”. Styled in CSS file under headings; rsvpform, inputbox, inputbutton, inputbutton. (Lines 209 - 214)
+    
+    
+    
+    
+✓	At least one list (ordered or unordered): See TravelInfo.html lines 28 - 33. 
+    Contained within div defined by class=“schedule”. Styled in CSS file under headings; div.schedule, div.schedule li.(Lines 143 - 149)
+
+
+
+
+✓	At least one local or embedded video: See TravelInfo.html line 56. Contained within an iframe tag.
+    Defined by class=“video”. Styled in CSS file under heading; video.(Lines 197 - 203)
+
+
+
+
+✓	At least two CSS3 and HTML5 elements:
+			CSS3:
+               1.	RGBA colors - line 76 in CSS file - defining color for the div defined by class=“container” in all html files. (Black with opacity 0.5)
+                                - line 84 in CSS file - defining color for the div defined by class=“container2” in all html files. (White with opacity 0.5)
+                                
+               2.  Opacity  - line 141 in CSS file - when hovering over links in Accommodation.html table they have opacity of 0.5.
+                            - line 233 in CSS file - when hovering over inputbutton in  RSVP.html  form it has an opacity of 0.5.
+                            - line 243 in CSS file - when hovering over images in Photos.html they change to opacity 0.6.
+		      HTML5:
+	           1.	 <footer> - Used in all html pages with the exception of Home.html. Styled in CSS under the heading div.container2 (lines 80 -92) 
+	           2.	 <mark> - line 36 in TravelInfo.html file. Styled in CSS file under heading; mark. (Lines - 150 - 153)
+
+
+	
+    
+
+✓	Make use of the CSS positional properties (e.g. position, float):
+    See CSS file lines:
+            Position:
+                9- positioning background image center (All html pages)
+               20 - positioning the navigation bar absolute (All html pages) 
+		      184 - hr in TravelInfo.html / in RSVP.html relative
+              194 - linebreak in TravelInfo.html relative
+        
+            Float:        
+                26 - navigation bar list items float left (All html pages)
+                113 - image skinny birdge floats right (OurStory.html)
+                155 - map1 floats left (TravelInfo.html)
+                166 - map2 floats left (TravelInfo.html)
+                198 - video floats left (TravelInfo.html)
+                239 - div.gallery floats left (Photos.html)
+          
+        
+        
+        
+✓	Make use of both inline and block elements:
+        See CSS file lines:
+		134 - displaying links in table as inline-block elements (Accommodation.html)
+		177 - displaying hr as block elements (TravelInfo.html / RSVP.html )
+		187 - displaying line break as a block element (TravelInfo.html )
+
+
+
+
+✓	Going beyond the parts of HTML and CSS described in the lectures and practical classes, to explore additional features of HTML and CSS (e.g. responsive design):
+    
+    I have made the webpage responsive. To do this I followed instructions outlined on W3schools - https://www.w3schools.com/css/css_rwd_viewport.asp. On the webpage https://www.w3schools.com/css/css_rwd_images.asp I noted that to make images responsive I needed to set the with using % rather than px. I found this also applied to other elements such a div/navbar etc all the widths needed to be set using percentages.I played around with the values for each element until I was happy with them. There were some elements that could not be made responsive when I was adding this feature. These were things like the photo in  OurStoy.html, the maps and video in TravelInfo.html.This was because I had positioned them to absolute. I later realised that if I wanted the responsiveness to work I had to put them into divs. 
+    I found it difficult to make the table in Accomodation.html responsive. The images in the last column were proving difficult and so were the links in the first row. I used the first and last child elements of the table to make it responsive in the end. 
+    
+    I managed to insert two google maps in my webpage. To do this I followed instructions outlined on the Google Maps API page. https://developers.google.com/maps/documentation/embed/guide. 
+    
+    I used the information on the following page to increase the opacity of the background colour of the div.container1 . I used the RGBA colours so that when I added images or other media to the container they would not have an opacity of 0.5. https://www.w3schools.com/css/css_image_transparency.asp
+    
